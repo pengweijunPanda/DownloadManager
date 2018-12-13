@@ -1,0 +1,10 @@
+
+source 'https://github.com/CocoaPods/Specs.git'
+
+
+target 'DownloadManger' do
+  
+  pod 'AFNetworking'
+  pod 'SSZipArchive'
+
+end
