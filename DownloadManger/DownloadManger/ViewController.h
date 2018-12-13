@@ -10,6 +10,7 @@
 
 @interface ViewController : UIViewController
 
+- (IBAction)downloadClick:(UIButton *)sender;
 
 @end
 
